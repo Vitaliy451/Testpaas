@@ -4,7 +4,7 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "test test test test test test test test test test test test test test test test"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -20,25 +20,22 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "c5265c40-8424-11f0-8b96-e1473500cc6c"
+      "id" : "fa6ccd50-f7ae-11f0-ac05-ad8ff9a222e9"
     },
-    "externalId" : {
-      "entityType" : "DEVICE",
-      "id" : "f8317330-8727-11f0-8b96-e1473500cc6c"
-    },
+    "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "f8317330-8727-11f0-8b96-e1473500cc6c"
+      "id" : "036f8350-1241-11f1-b9f8-89c4115a0d71"
     },
-    "label" : "",
-    "name" : "block",
+    "label" : "tes",
+    "name" : "tse",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "Default"
+    "type" : "Custom Profile"
   },
   "credentials" : {
-    "credentialsId" : "IKtJZ7lxwRyUAC6FgXfZ",
+    "credentialsId" : "enau6tUhVxEgDNSs3ciO",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -49,24 +46,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1772019785995,
+      "lastUpdateTs" : 1772020586556,
       "longValue" : null,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1756727230247,
-      "longValue" : 1756727230247,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "lastActivityTime",
-      "lastUpdateTs" : 1756726627626,
-      "longValue" : 1756726625564,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
